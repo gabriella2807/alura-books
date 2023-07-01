@@ -49,3 +49,8 @@ background-color: var(--branco);
 
 .lista-menu__titulo {
 color: var(--laranja);
+}
+
+  .container__botao {
+display: none;
+}
